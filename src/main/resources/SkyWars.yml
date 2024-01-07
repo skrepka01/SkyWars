@@ -1,0 +1,9 @@
+World:
+  Arena1:
+    posX: 0
+    posY: 0
+    posZ: 0
+  Arena2:
+    posX: 100
+    posY: 100
+    posZ: 100
